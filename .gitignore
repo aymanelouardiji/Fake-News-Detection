@@ -201,6 +201,23 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Project-generated artifacts
+.tmp/
+*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+data/*.csv
+models/*
+!models/.gitkeep
+outputs/figures/*
+!outputs/figures/.gitkeep
+outputs/metrics/*
+!outputs/metrics/.gitkeep
+
 # Marimo
 marimo/_static/
 marimo/_lsp/

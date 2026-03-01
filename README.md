@@ -53,7 +53,6 @@ FakeNewsDetection/
 |-- app.py
 |-- requirements.txt
 |-- README.md
-`-- REPORT.tex
 ```
 
 ## System Overview
